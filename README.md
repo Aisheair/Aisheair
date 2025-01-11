@@ -2,7 +2,7 @@
 
 # Hi! I'm Ankit Kargupta
 
-Beginner Frontend Developer and Tech Enthusiast
+<span style='font-size: 1.5em;'>Beginner Frontend Developer and Tech Enthusiast</span>
 
 ---
 
