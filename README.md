@@ -32,5 +32,10 @@
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
 
+---
+
+![View Count](https://komarev.com/ghpvc/?username=Aisheair&color=blueviolet&style=for-the-badge&width=300&height=100)
+
+
 </div>
 
