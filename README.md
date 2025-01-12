@@ -1,13 +1,15 @@
 <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="soura-banner">
 <div align="center">
 
-# Hi! I'm Ankit Kargupta
+# Hi! I'm Ankit Kargupta 
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="30" style="vertical-align: middle;" />**Beginner Frontend Developer and Tech Enthusiast** <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="30" style="vertical-align: middle;" />
 
-**Beginner Frontend Developer and Tech Enthusiast**
+
 
 ---
 
-![Aisheair Stats](https://github-readme-stats.vercel.app/api?username=Aisheair&theme=radical&show_icons=true&hide_border=false&count_private=true)<br><br>
+![Aisheair Stats](https://github-readme-stats.vercel.app/api?username=Aisheair&theme=radical&show_icons=true&hide_border=false&count_private=true) 
+<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aisheair&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
