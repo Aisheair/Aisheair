@@ -8,8 +8,6 @@
 
 ![Aisheair Stats](https://github-readme-stats.vercel.app/api?username=Aisheair&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-![Aisheair Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aisheair&theme=radical&hide_border=false)
-
 ---
 
 ### What I Know
