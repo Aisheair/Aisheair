@@ -4,9 +4,7 @@
 # Hi! I'm Ankit Kargupta 
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="30" style="vertical-align: middle;" />**Beginner Frontend Developer and Tech Enthusiast**<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="30" style="vertical-align: middle;" />
 
-
-
----
+<br>
 
 ![Aisheair Stats](https://github-readme-stats.vercel.app/api?username=Aisheair&theme=radical&show_icons=true&hide_border=false&count_private=true) 
 <br><br>
@@ -22,8 +20,8 @@
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
+<br><br>
 
----
 
 ### Tools and Technologies
 
@@ -32,10 +30,10 @@
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
 
----
+<br>
 
 ![View Count](https://komarev.com/ghpvc/?username=Aisheair&color=blueviolet&style=for-the-badge&width=300&height=100)
 
-
+---
 </div>
 
