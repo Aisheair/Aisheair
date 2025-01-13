@@ -30,10 +30,9 @@
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
 
+<br>
 
-### Visitors
-
-<img src="https://count.getloli.com/get/@Aisheair?theme=gelbooru" alt="Visitors" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" height="100" />
 
 
 ---
