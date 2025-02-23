@@ -19,6 +19,7 @@
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
 <br><br>
 
