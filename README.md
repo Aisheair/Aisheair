@@ -31,6 +31,8 @@
 ![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
+![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)
+
 
 <br>
 
